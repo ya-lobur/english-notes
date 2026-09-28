@@ -3,7 +3,7 @@ date: 2026-06-18
 topic: "Small Talk / Daily Conversations"
 status: processed
 tags: [ small-talk, questions, vocabulary, articles, pronunciation ]
-next_review: 2026-09-26
+next_review: 2026-09-29
 ---
 
 # Lesson: Small Talk / Daily Conversations
