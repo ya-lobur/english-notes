@@ -1,0 +1,14 @@
+# Review queue
+
+| Due        | Material                                                                                     | Task                                                                                                         | Result / next interval                                  |
+|------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 2026-10-04 | [Corporate verbs](../lessons/2026/2026-09-29-corporate-verbs/lesson.md)                      | Без подсказок объяснить 10 глаголов и составить короткий рассказ о проекте с шестью из них                   | —                                                       |
+| 2026-10-04 | [New beginnings + Sink or swim](../lessons/2026/2026-09-22-new-beginnings/lesson.md)         | Различить `get by`, `get the hang of`, `figure out`, `sort out`, `rise to the challenge`; дать новые примеры | —                                                       |
+| 2026-10-05 | [Work idioms](../lessons/2026/2026-09-01-phrasal-verbs-and-work-idioms/lesson.md)            | Восстановить выражения по ситуациям и пересказать историю презентации без чтения                             | —                                                       |
+| 2026-10-06 | [Articles](../lessons/2026/2026-08-18-articles-and-advanced-phrasal-verbs/grammar.md)        | Сделать 12 собственных примеров: `a/an`, `the`, zero article и географические названия                       | —                                                       |
+| 2026-10-07 | [Communication idioms](../lessons/2026/2026-08-04-communication-idioms/idioms.md)            | Составить один рабочий диалог с шестью идиомами, не подглядывая в определения                                | —                                                       |
+| 2026-10-08 | [Career vocabulary](../lessons/2026/2026-07-28-colleagues-and-job-description/vocabulary.md) | Описать работу пятью точными adjectives и объяснить контрасты `rewarding/well-paid`, `exhausting/exhausted`  | —                                                       |
+| 2026-10-10 | [Cleft sentences](../lessons/2026/2026-06-25-ai-crypto-cleft-sentences/grammar.md)           | Преобразовать пять рабочих утверждений в `what-`, `it-`, `all-` и `the reason` clefts                        | —                                                       |
+| 2026-10-10 | [Small Talk / Daily Conversations](../lessons/2026/2026-06-18-small-talk/lesson.md)          | Составить четыре основных вопроса и по одному настоящему follow-up question к каждому                        | 2026-09-26: vocabulary выполнено с небольшой поддержкой |
+
+Базовые интервалы: 1, 3, 7, 14 и 30 дней. Интервал меняется по результату, а не ради соблюдения графика.
