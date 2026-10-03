@@ -8,47 +8,21 @@ next_review: YYYY-MM-DD
 
 # Lesson: topic
 
+Материалы урока: [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · [Idioms and phrasal verbs](idioms.md)
+
 ## Коротко об уроке
 
 - Главная тема:
 - Что уже получается:
 - Главный приоритет:
+- Авторство пометок:
 
-## Исправления
+## Исправления и уточнения
 
 | Original | Better English | Тип | Объяснение |
 |----------|----------------|-----|------------|
 
-Тип: `grammar`, `naturalness`, `meaning`, `register`, `style` или `typo`.
-
-## Vocabulary and collocations
-
-### Expression
-
-- Значение здесь:
-- С чем обычно употребляется:
-- Регистр / оттенок:
-- Natural example:
-- Не путать с:
-
-## Idioms and phrasal verbs
-
-### Expression
-
-- Буквальный образ:
-- Реальный смысл:
-- Тон и ограничения:
-- Когда это естественно сказать:
-- Example:
-
-## Grammar
-
-### Topic
-
-- Минимальное правило:
-- Почему в этом примере:
-- Сравнение:
-- Попробуй сам:
+Тип: `grammar`, `naturalness`, `meaning`, `register`, `style`, `pronunciation` или `typo`.
 
 ## Как это слышит носитель
 
@@ -78,4 +52,4 @@ next_review: YYYY-MM-DD
 
 ## Original notes — verbatim
 
-> Вставить исходные заметки без исправлений и сокращений.
+> Вставить относящийся к этому уроку фрагмент исходных заметок без исправлений и сокращений.
