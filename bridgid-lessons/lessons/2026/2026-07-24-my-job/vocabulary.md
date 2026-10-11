@@ -1,21 +1,81 @@
-# Vocabulary and collocations
+# Слова и выражения
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## `detail-oriented`
+Примеры ниже — иллюстрации Codex, а не цитаты или ответы ученика.
 
-- Значение: внимательный к деталям.
-- Collocations: `a detail-oriented person`, `be highly detail-oriented`.
-- Example: `I’m detail-oriented, so I often catch edge cases during code review.`
+## detail-oriented / detail-orientated
 
-## `results-driven`
+**Тип:** прилагательное.
 
-- Значение: ориентированный на достижение измеримых результатов.
-- Регистр: типично для деловой речи и CV; без примера может звучать шаблонно.
-- Example: `She’s results-driven, but she doesn’t sacrifice quality.`
+**Перевод:** внимательный к деталям.
 
-## `conscientious`
+A detail-oriented person; be detail-oriented. Оба варианта допустимы; detail-orientated особенно встречается в британской речи.
 
-- Значение: добросовестный, тщательный и ответственный.
-- Pronunciation: /ˌkɒnʃiˈenʃəs/ (BrE), /ˌkɑːnʃiˈenʃəs/ (AmE).
-- Example: `He’s conscientious about documenting important decisions.`
+**Регистр / оттенок.** Нейтрально-деловая самохарактеристика; обещает тщательность, а не перфекционизм.
+
+### Примеры употребления
+
+1. We need a detail-oriented tester. — Нам нужен внимательный к деталям тестировщик.
+2. I'm detail-orientated when checking invoices. — Проверяя счета, я внимательно отношусь к деталям.
+
+## results-driven
+
+**Тип:** прилагательное.
+
+**Перевод:** нацеленный на результат.
+
+A results-driven team / approach. В исходнике result-driven; понятно, но results-driven — более привычное сочетание.
+
+**Регистр / оттенок.** Деловое, часто в резюме; звучит как заявленное качество, которому полезно дать пример.
+
+### Примеры употребления
+
+1. She's a results-driven manager who sets clear goals. — Она руководитель, нацеленный на результат и ставящий ясные цели.
+2. Our team is results-driven, but quality still matters. — Наша команда ориентирована на результат, но качество тоже важно.
+
+## conscientious
+
+**Тип:** прилагательное.
+
+**Перевод:** добросовестный.
+
+A conscientious employee; be conscientious about doing something. Подразумевает старательное и ответственное выполнение обязанностей.
+
+**Регистр / оттенок.** Нейтральная похвала; не то же, что conscious «осознающий».
+
+### Примеры употребления
+
+1. He's conscientious about documenting his changes. — Он добросовестно документирует свои изменения.
+2. She was a conscientious student who checked every answer. — Она была добросовестной ученицей и проверяла каждый ответ.
+
+## have it all figured out
+
+**Тип:** идиома.
+
+**Перевод:** во всём разобраться; чётко понимать свой путь.
+
+Have something figured out — иметь готовое понимание или план. All усиливает идею полной определённости.
+
+**Регистр / оттенок.** Разговорно; в утверждении про возраст 30 подразумевается давление социальных ожиданий.
+
+### Примеры употребления
+
+1. At thirty, I still didn't have it all figured out. — В тридцать я всё ещё не знал точно, как хочу жить.
+2. She seems to have it all figured out, but she has doubts too. — Кажется, она во всём разобралась, но и у неё есть сомнения.
+
+## stick with
+
+**Тип:** глагол с предлогом (предложное управление).
+
+**Перевод:** придерживаться; не бросать.
+
+Stick with a career / plan / person. Формы stick–stuck–stuck; продолжать выбранное, несмотря на альтернативы.
+
+**Регистр / оттенок.** Нейтрально-разговорно; может означать полезную настойчивость, а не упрямство.
+
+### Примеры употребления
+
+1. I'll stick with this course until the end. — Я не брошу этот курс до конца.
+2. We decided to stick with our current supplier. — Мы решили остаться с нынешним поставщиком.
+

@@ -1,23 +1,27 @@
-# Grammar
+# Грамматика
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## Articles with `gym`
+## In the gym и at the gym
 
-- Минимальное правило: `a gym` — один из многих или первое упоминание; `the gym` — знакомое/ожидаемое место либо
-  привычная деятельность.
-- Сравнение: `I joined a gym near my office.` / `I’m at the gym now.`
-- Важно: выбор `at` или `in` не отменяет артикль.
-- Попробуй сам: `I found ___ gym near my flat, and now I go to ___ gym three times a week.`
+В исходнике выделен артикль: `In **the** gym`. Это корректное сочетание, а не ошибка, которую обязательно нужно заменить на at. **In the gym** подчёркивает нахождение внутри помещения; **at the gym** — место или занятие в спортзале. Для обычного «я сейчас в спортзале» часто подходит at the gym. В обоих случаях the употребляется с привычным, понятным из ситуации местом; ранее называть его не обязательно.
 
-## Present Simple и Past Simple с `hang up`
+### Сравнение
 
-- Present Simple описывает привычку: `They hang up whenever the signal gets bad.`
-- Past Simple описывает событие: `They hung up five minutes ago.`
-- Попробуй сам: расскажи об одном вчерашнем звонке, используя `hung up`.
+- I'm at the gym. — Я в спортзале; сообщаю, где я и чем занят.
+- It's very hot in the gym. — Внутри спортзала очень жарко; важна обстановка помещения.
 
-## Open questions
+Это не та же модель, что go to school: в обычном выражении go to the gym артикль сохраняется.
 
-- Базовая модель: `question word + auxiliary + subject + verb`.
-- Сравнение: `Who do you talk to?` (`who` — дополнение) / `Who calls you?` (`who` — подлежащее, `do` не нужен).
-- Попробуй сам: составь вопросы с `How long…?` и `Who…?` о small talk.
+## Вопросы и продолжение разговора
+
+В списке есть `What…?`, `How often…?`, `Who…?`, `Do you…?`. Вопросительное слово задаёт тип информации. Для обычного глагола в Present Simple: **question word + do/does + subject + base verb**. С be вспомогательное do не нужно. Когда who само подлежащее, обычный вопрос не требует do.
+
+### Сравнение
+
+- Where do you work? — Где ты работаешь? Work — смысловой глагол, поэтому появляется do.
+- Where is your office? — Где твой офис? Is уже ставится перед подлежащим.
+- Who works with you? — Кто работает с тобой? Who — подлежащее.
+- Who do you work with? — С кем ты работаешь? Подлежащее — you.
+
+How often спрашивает о частоте, how long — о длительности. Do you like your job? допускает короткое yes/no; What do you like about your job? просит содержание. Уточняющий вопрос определяется связью с ответом, а не только вопросительным словом: I work in fintech → What do you enjoy about it?

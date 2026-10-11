@@ -1,15 +1,126 @@
-# Vocabulary and collocations
+# Слова и выражения
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## `self-employed`
+Примеры ниже — иллюстрации Codex, а не цитаты или ответы ученика.
 
-- Значение: работающий на себя, а не как сотрудник организации.
-- Collocations: `be self-employed`, `become self-employed`, `self-employed contractor`.
-- Example: `One benefit of being self-employed is having more control over your schedule.`
+## go through the motions
 
-## `stocks` / `shares`
+**Тип:** идиома.
 
-- `Shares` — отдельные доли конкретной компании; `stock` может обозначать акции как класс активов или долю владения.
-- В повседневной AmE `stocks` часто используется о вложениях в разные компании.
-- Example: `She owns shares in the company and also invests in stocks more broadly.`
+**Перевод:** делать механически, без вовлечённости.
+
+Go through the motions of doing something — выполнять действия без настоящего интереса или веры в них.
+
+**Регистр / оттенок.** Разговорно, критично или устало; результат не обязательно плох, но энтузиазма нет.
+
+### Примеры употребления
+
+1. By Friday I was just going through the motions. — К пятнице я всё делал уже на автомате.
+2. They went through the motions of consulting the team. — Они лишь для вида посоветовались с командой.
+
+## have a calling
+
+**Тип:** глагольное словосочетание.
+
+**Перевод:** чувствовать призвание.
+
+Have a calling to do something; teaching is her calling. Подразумевает внутреннюю убеждённость в подходящем деле.
+
+**Регистр / оттенок.** Личное, иногда возвышенное; не синоним любого интереса.
+
+### Примеры употребления
+
+1. She felt she had a calling to work with children. — Она чувствовала призвание работать с детьми.
+2. I enjoy my job, but I wouldn't call it a calling. — Работа мне нравится, но призванием я бы её не назвал.
+
+## fall into a career
+
+**Тип:** глагол с предлогом; переносное значение.
+
+**Перевод:** случайно прийти в профессию.
+
+Fall into a career / fall into teaching. Формы fall–fell–fallen; карьера складывается без исходного плана.
+
+**Регистр / оттенок.** Разговорно и обычно без отрицательной оценки: случайность не означает неудачу.
+
+### Примеры употребления
+
+1. I fell into software testing after helping a friend. — Я случайно пришёл в тестирование, помогая другу.
+2. She fell into teaching and discovered she loved it. — Она случайно стала преподавать и поняла, что ей это нравится.
+
+## a big fish in a small pond
+
+**Тип:** идиома.
+
+**Перевод:** важная фигура в небольшом кругу.
+
+Be a big fish in a small pond: влияние заметно в ограниченной среде.
+
+**Регистр / оттенок.** Образно; может хвалить влияние или иронично ограничивать масштаб успеха.
+
+### Примеры употребления
+
+1. At that small agency, he was a big fish in a small pond. — В том маленьком агентстве он был очень заметной фигурой.
+2. I'd rather be a big fish in a small pond and have more responsibility. — Я предпочёл бы быть заметным человеком в небольшой компании и иметь больше ответственности.
+
+## swim with the sharks
+
+**Тип:** идиома.
+
+**Перевод:** работать среди жёстких конкурентов.
+
+Swim with the sharks: среда, где участники могут быть безжалостными.
+
+**Регистр / оттенок.** Разговорный сильный образ; конкуренция звучит потенциально опасной, а не просто активной.
+
+### Примеры употребления
+
+1. Negotiating there felt like swimming with the sharks. — На тех переговорах было ощущение, что вокруг акулы бизнеса.
+2. She enjoys swimming with the sharks in that industry. — Ей нравится жёсткая конкурентная среда этой отрасли.
+
+## take a leap of faith
+
+**Тип:** идиома.
+
+**Перевод:** решиться на рискованный шаг, доверившись надежде.
+
+Take a leap of faith and do something. Нет полной уверенности в результате, но решение принято.
+
+**Регистр / оттенок.** Образно, обычно сочувственно или одобрительно; не обязательно религиозно.
+
+### Примеры употребления
+
+1. Moving abroad without a job was a leap of faith. — Переезд за границу без работы был рискованным шагом на веру.
+2. We took a leap of faith and hired a beginner. — Мы рискнули и взяли новичка.
+
+## pay off
+
+**Тип:** фразовый глагол.
+
+**Перевод:** окупиться, принести результат.
+
+Effort / a decision pays off. Здесь глагол без прямого дополнения; pay off a loan — отдельное значение «погасить кредит».
+
+**Регистр / оттенок.** Нейтрально-разговорно; результат может быть нематериальным.
+
+### Примеры употребления
+
+1. All her preparation paid off at the interview. — Подготовка помогла ей успешно пройти собеседование.
+2. The career change paid off: I finally enjoy Mondays. — Смена карьеры себя оправдала: мне наконец нравятся понедельники.
+
+## a jack of all trades (master of none)
+
+**Тип:** идиома.
+
+**Перевод:** мастер на все руки (но ни в чём не специалист).
+
+A jack of all trades умеет многое. Добавление master of none прямо подчёркивает отсутствие глубокой специализации.
+
+**Регистр / оттенок.** Без окончания бывает похвалой универсальности; с окончанием часто критично.
+
+### Примеры употребления
+
+1. In a small team, you need a jack of all trades. — Маленькой команде нужен универсальный специалист.
+2. He worries about becoming a jack of all trades, master of none. — Он боится уметь всё понемногу, но ни в чём не стать специалистом.
+

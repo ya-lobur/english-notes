@@ -1,79 +1,29 @@
 ---
 date: 2026-09-29
 topic: "Corporate verbs"
-status: processed
-tags: [corporate-language, project-management, cleft-sentences]
-next_review: 2026-10-04
 ---
 
-# Lesson: Corporate verbs
+# Corporate verbs
 
-Материалы урока: [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · [Idioms and phrasal verbs](idioms.md)
+Материалы урока: [Грамматика](grammar.md) · [Слова и выражения](vocabulary.md)
 
 ## Коротко об уроке
 
-- Главная тема: точные глаголы для обсуждения проектов, процессов, рисков и взаимодействия команд.
-- Главный приоритет: отличать конкретное значение каждого глагола от расплывчатого corporate jargon.
-- Авторство пометок: определения и примеры даны преподавателем; выделенная фраза про estimation выглядит как ответ
-  ученика или совместно сформулированный ответ.
+Деловые глаголы, обсуждение приоритетов и семейства слов о размерах и изменениях.
 
-## Исправления и уточнения
+Год 2026 принят по явно датированным сентябрьским урокам исходника. Жирное выделение рассматривается как акцент внимания, а не доказательство ошибки или авторства ответа. Авторство отдельных реплик не установлено. Разбор и новые иллюстрации подготовлены Codex.
 
-| Original                                       | Better English                                                    | Тип         | Объяснение                                                                              |
-|------------------------------------------------|-------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------|
-| `prioritise ... is the estimation of my tasks` | `...is estimating my tasks` / `...is improving my task estimates` | naturalness | `The estimation of my tasks` грамматически возможно, но звучит тяжеловесно и неясно.    |
-| `implement a skill`                            | `develop / practise / apply a skill`                              | collocation | Обычно `implement` сочетается с plan, policy, system или change, а не с личным навыком. |
-| `leverage from my previous experience`         | `leverage my previous experience`                                 | grammar     | `Leverage` переходный: прямое дополнение без `from`.                                    |
-| `liaise closely with`                          | без изменений                                                     | grammar     | Стандартная модель требует `with`.                                                      |
+Исходные записи полностью сохранены ниже вместе с заданиями. Содержимое внешних видео и статей не приписывается заметкам.
 
-## Как это слышит носитель
-
-- `Leverage` и `align` уместны в деловой речи, но без конкретного объекта легко звучат как jargon.
-- `Escalate` не обязательно означает конфликт: это передача вопроса на уровень с нужными полномочиями.
-- `Mitigate` означает уменьшить риск или последствия, а не гарантированно устранить риск.
-
-## Active recall
-
-1. Выбери глагол: сравнить метрику со стандартом.
-2. Исправь: `We should implement this communication skill more often.`
-3. Вставь предлог: `liaise ___ the finance team`.
-4. Объясни разницу между `streamline` и `implement`.
-5. Преобразуй в cleft sentence: `I need to improve my task estimates most.`
-
-## Production practice
-
-1. Опиши недавний проект, употребив шесть corporate verbs и три project idioms.
-2. Расскажи, какой процесс стоит `streamline`, какой риск — `mitigate`, а какие команды — `align`.
-3. Ответь на три исходных homework questions письменно по 4–6 предложений.
-
-## Ответы на homework questions
-
-1. I **prioritise** work by weighing its business impact, urgency, and cost to employees. If needs conflict, I make the trade-offs clear and look for a solution that protects essential employee needs while delivering value to stakeholders.
-
-2. To **align** training with business goals, connect what people learn to specific outcomes, such as fewer errors or faster delivery. The programme is succeeding if those outcomes improve and employees can use the skills in their work.
-
-3. We can’t eliminate every risk: some failure is inevitable when a project involves uncertainty. We can **mitigate** the risk by testing assumptions early, reviewing progress, and preparing a backup plan.
-
-<details>
-<summary>Ответы и подсказки</summary>
-
-1. `benchmark`.
-2. `We should practise/apply this communication skill more consistently.`
-3. `with`.
-4. `Streamline` — сделать существующий процесс эффективнее; `implement` — ввести план/систему в действие.
-5. `What I most need to do is improve my task estimates.`
-
-</details>
-
-## Original notes — verbatim
+## Исходные заметки — без изменений
 
 **Corporate Verbs**   
-**29th September**
+**29th September** 
 
 **Align:** bring people, plans, or goals into agreement  
-We need to align our marketing strategy with the company's long-term vision.  
+ We need to align our marketing strategy with the company's long-term vision.  
 **Benchmark:** measure performance against a standard or competitor  
-We regularly benchmark our salaries against industry data to stay competitive.  
+ We regularly benchmark our salaries against industry data to stay competitive.  
 **Escalate:** raise an issue to a higher level of authority  
 If the complaint isn't resolved today, we'll need to escalate it to senior management.  
 **Facilitate:** make a process or outcome easier to achieve  
@@ -95,15 +45,14 @@ The new software has streamlined our onboarding process considerably.
 Think about a project you've been involved in recently. It could be something that went well or something that didn’t.  
 1\. Who ***got the ball rolling*** **on** it, and how?  
 2\. Did you need to regularly ***touch base*** with stakeholders or your team along the way?  
-3\. Was there ever a moment where someone had to ***face the music*** regarding delays, results, or a change in
-direction?
+3\. Was there ever a moment where someone had to ***face the music*** regarding delays, results, or a change in direction?
 
 **Complete the sentences**
 
-* **The thing/What** I most need to **prioritise** in my role right now **is the estimation of my tasks**
-* One thing I **could** **leverage/have leveraged** from my previous experience to improve my current work is…
-* If I could **streamline** one process in my team, it would be... because…
-* I once had to **escalate** something at work when... / I've never had to escalate anything because…
+* **The thing/What** I most need to **prioritise** in my role right now **is the estimation of my tasks**  
+* One thing I **could** **leverage/have leveraged** from my previous experience to improve my current work is…  
+* If I could **streamline** one process in my team, it would be... because…  
+* I once had to **escalate** something at work when... / I've never had to escalate anything because…  
 * A skill I'd like to **implement** more consistently in my work is...
 
 **Which would you rather do, and why?**  
@@ -112,11 +61,27 @@ direction?
 **Escalate** a problem to leadership OR **align** your team around a solution first?  
 **Streamline** your current processes OR **leverage** new technology to replace them?
 
-**Homework \- write answers**
+**Homework \- write answers** 
 
-In programming, how do you decide what to **prioritise** when stakeholder needs conflict with employee needs?
+In programming, how do you decide what to **prioritise** when stakeholder needs conflict with employee needs?  
+I prioritise work by weighing its business impact, urgency and cost to employees. If needs conflict, I make the trade-offs clear and look for a solution that protects essential employee needs while delivering the most value to stakeholders.
 
-What does it really mean to **align** a training programme with business goals — and how do you know when you've
-succeeded?
+What does it really mean to **align** a training programme with business goals — and how do you know when you've succeeded?  
+To align training with business goals, connect what people learn to specific outcomes, such as fewer errors or faster delivery. The program works/will work if those outcomes improve and employees can use the skills in their work. 
 
-Is it always possible to **mitigate** the risk of a failed project, or is some failure inevitable?
+Is it always possible to **mitigate** the risk of a failed project, or is some failure inevitable?  
+We can’t eliminate every risk: some failure is inevitable when a project involves uncertainty. We can mitigate the risk by testing assumptions early, reviewing progress, and preparing a backup plan.
+
+**verb       		noun       		adjective		adverb**  
+weigh 		weight		Weighty  
+heighten		height		High			highly  
+lengthen 		length		Long  
+widen			width			Wide 			widely   
+shorten		shortage		Short 			shortly  
+strengthen		Strength		strong			strongly   
+broaden		breadth		Broad			broadly 
+
+I travelled the **length and breadth** of Georgia 
+
+Travelling can broaden your horizons / understanding of other cultures   
+Morning exercises can strengthen your muscles   

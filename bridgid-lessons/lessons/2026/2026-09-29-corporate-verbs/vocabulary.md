@@ -1,21 +1,336 @@
-# Vocabulary and collocations
+# Слова и выражения
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-| Verb         | Core meaning                          | Natural collocation                      |
-|--------------|---------------------------------------|------------------------------------------|
-| `align`      | привести цели/планы к согласованности | `align strategy with business goals`     |
-| `benchmark`  | сравнить со стандартом                | `benchmark salaries against market data` |
-| `escalate`   | передать вопрос выше                  | `escalate an issue to management`        |
-| `facilitate` | облегчить процесс                     | `facilitate a workshop / transition`     |
-| `implement`  | ввести решение в действие             | `implement a policy / system`            |
-| `leverage`   | использовать с максимальной выгодой   | `leverage experience / technology`       |
-| `liaise`     | поддерживать рабочее взаимодействие   | `liaise with stakeholders`               |
-| `mitigate`   | уменьшить риск или последствия        | `mitigate risk / impact`                 |
-| `prioritise` | определить очерёдность                | `prioritise high-value work`             |
-| `streamline` | убрать лишнее и ускорить              | `streamline a process`                   |
+Примеры ниже — иллюстрации Codex, а не цитаты или ответы ученика.
 
-## Register
+## align
 
-Все глаголы нормальны в профессиональном контексте. Чтобы не звучать расплывчато, называй конкретный объект и
-результат: не `leverage synergies`, а `use our existing customer data to reduce onboarding time`.
+**Тип:** глагол.
+
+**Перевод:** согласовать, привести в соответствие.
+
+Align A with B; align a team around a goal. В уроке align training with business goals — связать обучение с результатами бизнеса.
+
+**Регистр / оттенок.** Нейтрально-деловое; не означает, что стороны согласны по всем вопросам.
+
+### Примеры употребления
+
+1. We need to align the roadmap with customer needs. — Нужно согласовать план развития с потребностями клиентов.
+2. The workshop helped align the team around one goal. — Семинар помог объединить команду вокруг одной цели.
+
+## benchmark
+
+**Тип:** глагол; также существительное.
+
+**Перевод:** сравнивать с ориентиром.
+
+Benchmark something against industry data / competitors. Глагол требует мерки сравнения; benchmark как существительное — ориентир.
+
+**Регистр / оттенок.** Деловой термин; сравнение само по себе не улучшает показатели.
+
+### Примеры употребления
+
+1. We benchmark salaries against local market data. — Мы сравниваем зарплаты с данными местного рынка.
+2. The team benchmarked the new database against the old one. — Команда сравнила производительность новой базы со старой.
+
+## escalate
+
+**Тип:** глагол.
+
+**Перевод:** передать вопрос выше; обостряться.
+
+Escalate an issue to a manager — передать на более высокий уровень. Costs / tensions escalate — расти, усиливаться.
+
+**Регистр / оттенок.** Нейтрально-деловое в первом значении; не обязательно жалоба на человека.
+
+### Примеры употребления
+
+1. I'll escalate the access issue to IT management. — Я передам проблему с доступом руководству IT.
+2. The disagreement escalated into an argument. — Разногласие переросло в ссору.
+
+## facilitate
+
+**Тип:** глагол.
+
+**Перевод:** облегчать процесс; вести обсуждение.
+
+Facilitate a transition / discussion / workshop. Ведущий помогает группе работать, но не обязан читать лекцию.
+
+**Регистр / оттенок.** Формально-деловое; в обычной речи часто достаточно help.
+
+### Примеры употребления
+
+1. A shared document will facilitate collaboration. — Общий документ облегчит совместную работу.
+2. She facilitated a workshop on feedback. — Она вела семинар по обратной связи.
+
+## implement
+
+**Тип:** глагол.
+
+**Перевод:** внедрить, реализовать.
+
+Implement a policy / strategy / feature. A skill I'd like to implement из задания понятно, но обычно естественнее apply a skill или put a skill into practice.
+
+**Регистр / оттенок.** Деловой регистр; навык применяют, а план или решение реализуют. [Ранее о технологиях](../2026-06-25-ai-crypto-cleft-sentences/vocabulary.md).
+
+### Примеры употребления
+
+1. We implemented a new review policy. — Мы внедрили новые правила проверки.
+2. I'd like to apply these skills more consistently. — Я хотел бы более последовательно применять эти навыки.
+
+## leverage
+
+**Тип:** глагол.
+
+**Перевод:** использовать с выгодой.
+
+Leverage experience / technology / partnerships. Обычно прямое дополнение, без предлога; опыт как доступный ресурс.
+
+**Регистр / оттенок.** Деловое, иногда воспринимается как корпоративный жаргон; use проще, но не так подчёркивает преимущество.
+
+### Примеры употребления
+
+1. We can leverage our existing tools to save time. — Мы можем использовать имеющиеся инструменты, чтобы сэкономить время.
+2. She leveraged her teaching experience in the new role. — В новой роли она с пользой применила преподавательский опыт.
+
+## liaise
+
+**Тип:** глагол.
+
+**Перевод:** поддерживать рабочую связь, координировать.
+
+Liaise with someone; liaise between teams. Произношение /liˈeɪz/: ударение на втором слоге, в конце /z/.
+
+**Регистр / оттенок.** Деловое, особенно британское; предполагает обмен информацией и согласование, а не один случайный звонок.
+
+### Примеры употребления
+
+1. I'll liaise with finance about the invoice. — Я свяжусь с финансовым отделом, чтобы согласовать вопрос со счётом.
+2. She liaises between the client and the developers. — Она координирует взаимодействие клиента и разработчиков.
+
+## mitigate
+
+**Тип:** глагол.
+
+**Перевод:** снизить риск или смягчить последствия.
+
+Mitigate a risk / impact / damage. Не равно eliminate: проблема может остаться.
+
+**Регистр / оттенок.** Формально-деловое; полезно, когда важно не обещать полного устранения.
+
+### Примеры употребления
+
+1. Early tests can mitigate the risk of failure. — Ранние проверки могут снизить риск неудачи.
+2. Extra support helped mitigate the impact of the delay. — Дополнительная поддержка помогла смягчить последствия задержки.
+
+## prioritise / prioritize
+
+**Тип:** глагол.
+
+**Перевод:** расставлять приоритеты; отдавать приоритет.
+
+Prioritise tasks; prioritise A over B. Prioritise — британский вариант написания, prioritize широко используется в США и также допустим в британском английском.
+
+**Регистр / оттенок.** Нейтрально-деловое; выбор важнейшего не обязательно отказ от остального.
+
+### Примеры употребления
+
+1. We prioritise urgent security fixes. — Мы отдаём приоритет срочным исправлениям безопасности.
+2. I need to prioritise sleep over extra work this week. — На этой неделе мне нужно поставить сон выше дополнительной работы.
+
+## streamline
+
+**Тип:** глагол.
+
+**Перевод:** упростить и сделать эффективнее.
+
+Streamline a process / workflow / onboarding. Обычно убрать лишние шаги и трение, а не просто торопить людей.
+
+**Регистр / оттенок.** Деловое; обещает более удобный процесс, не обязательно сокращение штата.
+
+### Примеры употребления
+
+1. We streamlined onboarding by using one form. — Мы упростили оформление новичков, объединив всё в одну форму.
+2. The new layout streamlined packing orders. — Новая планировка упростила упаковку заказов.
+
+## get the ball rolling
+
+**Тип:** идиома.
+
+**Перевод:** дать делу ход, запустить процесс.
+
+Get the ball rolling on a project. Инициировать первые действия, чтобы остальные могли продолжить.
+
+**Регистр / оттенок.** Разговорно-деловая идиома; не обязательно самостоятельно делать весь проект.
+
+### Примеры употребления
+
+1. I'll get the ball rolling by booking a room. — Я начну с бронирования комнаты.
+2. Who got the ball rolling on the redesign? — Кто дал старт редизайну?
+
+## touch base
+
+**Тип:** идиома.
+
+**Перевод:** кратко связаться, свериться.
+
+Touch base with someone about something. Короткий контакт для обновления информации.
+
+**Регистр / оттенок.** Разговорно-деловая идиома; иногда звучит шаблонно, а цель встречи лучше уточнить.
+
+### Примеры употребления
+
+1. Let's touch base after the client call. — Давай коротко сверимся после звонка клиенту.
+2. I touched base with Anna about the schedule. — Я кратко связался с Анной по поводу расписания.
+
+## face the music
+
+**Тип:** идиома.
+
+**Перевод:** ответить за последствия.
+
+Face the music: принять неприятную критику или последствия своих действий.
+
+**Регистр / оттенок.** Разговорная идиома; предполагает неприятную ответственность, не просто публичное выступление.
+
+### Примеры употребления
+
+1. He missed the deadline and had to face the music. — Он сорвал срок, и ему пришлось отвечать за последствия.
+2. We need to tell the client and face the music. — Нужно сообщить клиенту и принять последствия.
+
+## weigh / weight / weighty
+
+**Тип:** семья слов: глагол, существительное, прилагательное.
+
+**Перевод:** взвешивать / вес / весомый.
+
+Weigh options — оценивать варианты; weight — вес, weighty issue — серьёзный вопрос. Weigh заканчивается на /eɪ/, weight имеет конечный /t/.
+
+**Регистр / оттенок.** Нейтрально; weighty о вопросе несколько книжно и не равно heavy о любом предмете.
+
+### Примеры употребления
+
+1. We need to weigh the benefits against the costs. — Нужно сопоставить пользу с затратами.
+2. It was a weighty decision for the family. — Для семьи это было серьёзное решение.
+
+## heighten / height / high / highly
+
+**Тип:** семья слов: глагол, существительное, прилагательное, наречие.
+
+**Перевод:** усиливать / высота / высокий / очень, высоко в оценке.
+
+Heighten concern — усилить тревогу; height — высота; high — высоко в пространстве; highly skilled — высококвалифицированный. Highly не заменяет high при физической высоте.
+
+**Регистр / оттенок.** Нейтрально; формы связаны, но значения не механически одинаковы.
+
+### Примеры употребления
+
+1. The announcement heightened our concerns. — Объявление усилило наши опасения.
+2. She's a highly skilled engineer. — Она высококвалифицированный инженер.
+
+## lengthen / length / long
+
+**Тип:** семья слов: глагол, существительное, прилагательное.
+
+**Перевод:** удлинять / длина / длинный.
+
+Lengthen a meeting / cable; the length of a document; a long wait. Это семья слов о протяжённости во времени или пространстве.
+
+**Регистр / оттенок.** Нейтрально; long не является обычным наречием на -ly.
+
+### Примеры употребления
+
+1. The delay lengthened our journey. — Задержка увеличила время поездки.
+2. What's the length of the pool? — Какова длина бассейна?
+
+## widen / width / wide / widely
+
+**Тип:** семья слов: глагол, существительное, прилагательное, наречие.
+
+**Перевод:** расширять / ширина / широкий / широко.
+
+Widen a road / gap; width — ширина; open wide — широко раскрыть; widely used — широко распространённый. Wide и widely имеют разные модели.
+
+**Регистр / оттенок.** Нейтрально; widely обычно о распространённости, не геометрической ширине.
+
+### Примеры употребления
+
+1. They plan to widen the road. — Они планируют расширить дорогу.
+2. This tool is widely used in schools. — Этот инструмент широко используется в школах.
+
+## shorten / shortage / short / shortly
+
+**Тип:** семья слов: глагол, существительное, прилагательное, наречие.
+
+**Перевод:** сокращать / нехватка / короткий / вскоре.
+
+Shorten a text; a shortage of staff — нехватка персонала, не «краткость». Shortly обычно «скоро», иногда «резко» о тоне; для краткого ответа — briefly.
+
+**Регистр / оттенок.** Нейтрально; в таблице исходника shortage нельзя считать существительным для любой краткости.
+
+### Примеры употребления
+
+1. We shortened the meeting to twenty minutes. — Мы сократили встречу до двадцати минут.
+2. There's a shortage of staff, but help will arrive shortly. — Сотрудников не хватает, но помощь скоро прибудет.
+
+## strengthen / strength / strong / strongly
+
+**Тип:** семья слов: глагол, существительное, прилагательное, наречие.
+
+**Перевод:** укреплять / сила / сильный / сильно.
+
+Strengthen muscles / trust; a strength — сильная сторона; strongly recommend — настоятельно рекомендовать.
+
+**Регистр / оттенок.** Нейтрально; strongly не заменяет hard в work hard.
+
+### Примеры употребления
+
+1. Regular practice strengthened my confidence. — Регулярная практика укрепила мою уверенность.
+2. Clear writing is one of her strengths. — Умение ясно писать — одна из её сильных сторон.
+
+## broaden / breadth / broad / broadly
+
+**Тип:** семья слов: глагол, существительное, прилагательное, наречие.
+
+**Перевод:** расширять / широта / широкий / в общих чертах.
+
+Broaden understanding; breadth of experience; broadly agree — в целом соглашаться. Broad и wide пересекаются, но не всегда заменяют друг друга.
+
+**Регистр / оттенок.** Нейтрально; breadth об опыте означает разнообразие, а не длительность.
+
+### Примеры употребления
+
+1. Travel broadened my understanding of other cultures. — Путешествия расширили моё понимание других культур.
+2. We broadly agree on the next steps. — В целом мы согласны относительно дальнейших шагов.
+
+## the length and breadth of
+
+**Тип:** идиома.
+
+**Перевод:** по всей территории, вдоль и поперёк.
+
+Travel the length and breadth of a country. Устойчиво с the и and; не буквальное измерение длины и ширины.
+
+**Регистр / оттенок.** Образно и немного книжно; подчёркивает большое географическое покрытие.
+
+### Примеры употребления
+
+1. She travelled the length and breadth of Georgia. — Она объездила Грузию вдоль и поперёк.
+2. They searched the length and breadth of the country. — Они искали по всей стране.
+
+## broaden your horizons
+
+**Тип:** идиома.
+
+**Перевод:** расширить кругозор.
+
+Travel / reading broadens your horizons. Horizons во множественном числе: новые представления и возможности.
+
+**Регистр / оттенок.** Нейтральная идиома, обычно положительно.
+
+### Примеры употребления
+
+1. Working abroad broadened my horizons. — Работа за границей расширила мой кругозор.
+2. I read outside my field to broaden my horizons. — Я читаю не только по специальности, чтобы расширять кругозор.
+

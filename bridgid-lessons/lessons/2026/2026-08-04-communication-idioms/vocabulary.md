@@ -1,15 +1,186 @@
-# Vocabulary and collocations
+# Слова и выражения
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## `stock`
+Примеры ниже — иллюстрации Codex, а не цитаты или ответы ученика.
 
-- Как существительное: запас товара; также акции компании в финансовом контексте.
-- Collocations: `in stock`, `out of stock`, `stock levels`.
-- Example: `The item is currently out of stock.`
+## stock
 
-## `official channels`
+**Тип:** существительное.
 
-- Официальные способы передачи информации внутри организации.
-- Контраст: `through official channels` / `through word of mouth`.
-- Example: `We heard the rumour before the news came through official channels.`
+**Перевод:** запас; товары в наличии.
+
+Stock — запас товаров: in stock / out of stock, stock levels. В финансовом контексте stocks — акции; здесь запись I stocked up указывает на запасы.
+
+**Регистр / оттенок.** Нейтрально; контекст магазина отличает товарные запасы от акций и бульона stock.
+
+### Примеры употребления
+
+1. Do you have this size in stock? — У вас есть этот размер в наличии?
+2. We keep a small stock of spare parts. — Мы держим небольшой запас запчастей.
+
+## stock up
+
+**Тип:** фразовый глагол.
+
+**Перевод:** запастись.
+
+Stock up on something; stock up for winter. Up передаёт накопление достаточного запаса.
+
+**Регистр / оттенок.** Разговорно-нейтрально; покупка обычно больше текущей разовой потребности.
+
+### Примеры употребления
+
+1. We stocked up on coffee before the holidays. — Перед праздниками мы запаслись кофе.
+2. I'll stock up before the shops close. — Я закуплюсь, пока магазины не закрылись.
+
+## word of mouth
+
+**Тип:** идиома.
+
+**Перевод:** сарафанное радио; устные рекомендации.
+
+Hear about something through / by word of mouth. Это передача от человека к человеку; не обязательно слух или секрет.
+
+**Регистр / оттенок.** Нейтрально; часто подразумевает личные рекомендации.
+
+### Примеры употребления
+
+1. Most clients find us through word of mouth. — Большинство клиентов узнаёт о нас по рекомендациям знакомых.
+2. News of the concert spread by word of mouth. — О концерте узнавали друг от друга.
+
+## on the tip of your tongue
+
+**Тип:** идиома.
+
+**Перевод:** вертится на языке.
+
+A name / word is on the tip of my tongue: знаешь, но сейчас не можешь вспомнить.
+
+**Регистр / оттенок.** Разговорно; слушатель ожидает, что слово вот-вот вспомнится, а не что его скрывают.
+
+### Примеры употребления
+
+1. Her surname is on the tip of my tongue. — Её фамилия вертится у меня на языке.
+2. The word was on the tip of his tongue, but he gave up. — Слово вертелось у него на языке, но он так и не вспомнил.
+
+## like talking to a brick wall
+
+**Тип:** идиома.
+
+**Перевод:** как об стенку горох.
+
+It's like talking to a brick wall — собеседник не воспринимает объяснение или не реагирует.
+
+**Регистр / оттенок.** Разговорно и раздражённо; прямое обвинение может обидеть.
+
+### Примеры употребления
+
+1. I've asked him three times; it's like talking to a brick wall. — Я просил его три раза — как об стенку горох.
+2. Trying to discuss the schedule with them felt like talking to a brick wall. — Обсуждать с ними расписание было всё равно что говорить со стеной.
+
+## a mile a minute
+
+**Тип:** идиома.
+
+**Перевод:** очень быстро, без остановки.
+
+Talk a mile a minute; также о быстро бегущих мыслях. Это преувеличение, не измерение скорости.
+
+**Регистр / оттенок.** Разговорно; может выражать восхищение энергией или трудность понимания.
+
+### Примеры употребления
+
+1. She talks a mile a minute when she's excited. — Когда она взволнована, она говорит очень быстро.
+2. My mind was racing a mile a minute before the interview. — Перед собеседованием мысли неслись с бешеной скоростью.
+
+## off the top of your head
+
+**Тип:** идиома.
+
+**Перевод:** навскидку, по памяти.
+
+Off the top of my head, I'd say…: без проверки и подготовки.
+
+**Регистр / оттенок.** Разговорно; слушатель получает предупреждение, что оценка приблизительная.
+
+### Примеры употребления
+
+1. Off the top of my head, we have about forty clients. — Навскидку у нас около сорока клиентов.
+2. I can't name all the authors off the top of my head. — Я не могу сразу по памяти назвать всех авторов.
+
+## speak your mind
+
+**Тип:** идиома.
+
+**Перевод:** прямо высказать своё мнение.
+
+Speak your mind о честном выражении того, что думаешь. Speak–spoke–spoken.
+
+**Регистр / оттенок.** Нейтрально-разговорно; прямота может нравиться или казаться резкой, но грубость не обязательна.
+
+### Примеры употребления
+
+1. She spoke her mind about the proposed cuts. — Она прямо высказалась о предложенных сокращениях.
+2. You can speak your mind without insulting people. — Можно говорить прямо и при этом никого не оскорблять.
+
+## beat around the bush
+
+**Тип:** идиома.
+
+**Перевод:** ходить вокруг да около.
+
+Beat around/about the bush — уклоняться от сути. Don't beat around the bush — просьба перейти к делу.
+
+**Регистр / оттенок.** Разговорно, часто нетерпеливо; не всякое косвенное выражение — намеренное уклонение.
+
+### Примеры употребления
+
+1. Stop beating around the bush and tell me what happened. — Хватит ходить вокруг да около, скажи, что случилось.
+2. I was nervous, so I beat around the bush for a while. — Я нервничал, поэтому какое-то время не решался перейти к делу.
+
+## get your point across
+
+**Тип:** идиома.
+
+**Перевод:** донести свою мысль.
+
+Get a point across to someone; get it across. Успех — в понимании, не обязательно в согласии.
+
+**Регистр / оттенок.** Нейтрально-разговорно; собеседник может понять и всё равно возразить.
+
+### Примеры употребления
+
+1. A diagram helped me get my point across. — Схема помогла мне донести мысль.
+2. I understood her words, but she didn't get her main point across. — Я понял слова, но главную мысль она не донесла.
+
+## on the same page
+
+**Тип:** идиома.
+
+**Перевод:** одинаково понимать ситуацию.
+
+Be on the same page about something. Общая информация или согласованное понимание следующего шага.
+
+**Регистр / оттенок.** Рабочее разговорное выражение; не означает согласие по любому вопросу.
+
+### Примеры употребления
+
+1. Let's check we're on the same page about the scope. — Давайте убедимся, что мы одинаково понимаем объём работы.
+2. We're on the same page now, so we can begin. — Теперь у нас общее понимание, можно начинать.
+
+## read between the lines
+
+**Тип:** идиома.
+
+**Перевод:** читать между строк.
+
+Read between the lines of a message — выводить подразумеваемое, а не только буквальное значение.
+
+**Регистр / оттенок.** Нейтральная идиома; интерпретация может быть ошибочной, это не доказанный скрытый смысл.
+
+### Примеры употребления
+
+1. Reading between the lines, I think she wants more time. — Если читать между строк, думаю, ей нужно больше времени.
+2. You don't need to read between the lines; I'm saying no. — Не нужно искать скрытый смысл: я говорю «нет».
+

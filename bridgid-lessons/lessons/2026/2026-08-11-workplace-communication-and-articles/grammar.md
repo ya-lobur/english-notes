@@ -1,41 +1,73 @@
-# Grammar
+# Грамматика
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## Irregular verbs
+## Три формы неправильного глагола
 
-| Base   | Past Simple | Past participle |
-|--------|-------------|-----------------|
-| bite   | bit         | bitten          |
-| forget | forgot      | forgotten       |
-| swim   | swam        | swum            |
-| drink  | drank       | drunk           |
-| put    | put         | put             |
-| come   | came        | come            |
-| buy    | bought      | bought          |
-| bring  | brought     | brought         |
-| grow   | grew        | grown           |
-| spread | spread      | spread          |
+В источнике перечислены глаголы для quiz, но не показаны ответы ученика. Вторая форма употребляется в Past Simple, третья — после have/has/had и в пассиве там, где пассив возможен.
 
-## Core article system
+| Base form | Past Simple | Past participle | Значение |
+|---|---|---|---|
+| bite | bit | bitten | кусать |
+| forget | forgot | forgotten | забывать |
+| swim | swam | swum | плавать |
+| drink | drank | drunk | пить |
+| put | put | put | класть |
+| come | came | come | приходить |
+| buy | bought | bought | покупать |
+| bring | brought | brought | приносить |
+| grow | grew | grown | расти, выращивать |
+| spread | spread | spread | распространять(ся) |
 
-- `a/an`: один неспецифический исчисляемый предмет; первое упоминание; профессия или категория.
-- `the`: конкретный, уже известный или однозначно определяемый предмет.
-- zero article: обобщение с plural/uncountable nouns и большинство имён собственных.
+### Сравнение
 
-## `a` or `an`: sound, not spelling
+- I swam yesterday. — Я плавал вчера: завершённый прошлый эпизод.
+- I've swum here before. — Я уже плавал здесь: опыт до настоящего момента.
 
-- `a university` — первый звук /j/ согласный.
-- `an hour` — `h` не произносится, первый звук гласный.
+**I've swam** в стандартной форме ошибочно: после have нужно swum. У put и spread совпадают все формы, но это не означает отсутствия прошедшего времени.
 
-## `a + adjective + uncountable noun`
+## A / an: один представитель, исчисляемое единственное число
 
-- Обычно `knowledge` неисчисляемое: `Knowledge is valuable.`
-- Но можно выделить вид/степень: `a deep knowledge of French law`.
-- То же происходит в некоторых конструкциях: `a good understanding of`, `a strong command of`.
+**I'm a teacher; he's an architect.** Артикль нужен с исчисляемым существительным в единственном числе, если нет другого определителя. A/an выбираются по звуку: **a university**, но **an hour**. Русское отсутствие артикля не переносится на английское название профессии.
 
-## Practice
+Первое упоминание — полезная подсказка, но не полное правило: даже впервые можно сказать the sun, потому что объект уже идентифицируем.
 
-Вставь артикли: `She is ___ architect with ___ deep knowledge of accessibility. ___ advice she gave us was useful.`
+### Сравнение
 
-Answer: `an`, `a`, `The`.
+- She's a manager. — Одна из людей этой профессии.
+- She's the manager of this office. — Конкретный руководитель этого офиса.
+
+## Прилагательное не делает любое неисчисляемое существительное исчисляемым
+
+В исходнике **a deep knowledge of French law / a clear conscience** объединены под широкой формулировкой. **A deep knowledge of…** — допустимая модель ограниченного, характеризованного знания. Conscience имеет исчисляемые употребления. Из этих примеров нельзя вывести правило «добавь прилагательное и a».
+
+### Сравнение
+
+- She has a deep knowledge of the subject. — Допустимое устойчивое употребление knowledge с характеристикой.
+- She gave me useful information. — Information остаётся неисчисляемым; **a useful information** неверно. Можно **a useful piece of information**.
+
+## The: собеседник может определить, о чём речь
+
+**I saw a dog. The dog was barking.** Первое предложение вводит собаку, второе отсылает к ней. **Close the window** возможно и без первого упоминания, если окно понятно из ситуации. The Queen из списка не обозначает универсально одну и ту же женщину: нужен понятный исторический или страновой контекст.
+
+**The best option**, **the first time** выделяют определённый объект в группе. Однако другой определитель заменяет the: **my first job**, не *the my first job*.
+
+### Сравнение
+
+- Information is important. — Информация вообще.
+- The information you sent is useful. — Конкретные отправленные сведения.
+
+**Play the piano** — обычная модель инструмента; **play piano** тоже встречается, особенно в американской речи и музыкальном контексте. **The telephone changed the world** использует единичное название как представителя изобретения. **The rich / the poor / the elderly** обозначают группы людей и обычно согласуются во множественном числе: **The elderly need support**.
+
+## Нулевой артикль и функция места
+
+**Cats are independent; she studies biology; we had lunch** — обобщённое множественное число, предмет обучения и обычное название приёма пищи. Но конкретизация меняет конструкцию: **The lunch you made was delicious**.
+
+**Go to school / bed / church / prison** — установившиеся сочетания, где важна обычная функция места. Это не универсальное разрешение убирать артикль перед любым зданием. **Go to hospital** как пациент — типично британское; в американском употреблении обычно **go to the hospital** и для пациента.
+
+### Сравнение
+
+- The children are at school. — Дети на занятиях.
+- I went to the school to meet a teacher. — Я пришёл в конкретную школу на встречу.
+
+С транспортом модель отдельная: **by bus**, но **on the bus**. Географические названия подробнее разобраны в [следующем уроке](../2026-08-18-articles-and-advanced-phrasal-verbs/grammar.md).

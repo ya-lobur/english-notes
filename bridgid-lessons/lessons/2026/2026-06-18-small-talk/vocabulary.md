@@ -1,38 +1,186 @@
-# Vocabulary and collocations
+# Слова и выражения
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## `lighthearted`
+Примеры ниже — иллюстрации Codex, а не цитаты или ответы ученика.
 
-- Значение: лёгкий, непринуждённый, не слишком серьёзный.
-- Collocations: `a lighthearted conversation`, `keep it lighthearted`.
-- Example: `I keep the conversation lighthearted when I meet someone for the first time.`
+## small talk
 
-## `mindset`
+**Тип:** именное словосочетание.
 
-- Значение: образ мышления, внутренняя установка.
-- Collocations: `have the right mindset`, `a growth mindset`.
-- Example: `A curious mindset makes small talk easier.`
+**Перевод:** непринуждённая беседа.
 
-## `curious`
+Короткий разговор на безопасные общие темы помогает установить контакт. Модель: make small talk with someone, small talk about the weather.
 
-- Значение здесь: искренне заинтересованный и желающий узнать больше.
-- Collocations: `be curious about someone`, `genuinely curious`, `curious to know`.
-- Example: `Be curious about the other person instead of planning your next answer.`
+**Регистр / оттенок.** Нейтральное название типа общения; не обязательно «бессмысленная болтовня».
 
-## `social glue`
+### Примеры употребления
 
-- Значение: образная характеристика того, что помогает людям установить и сохранять связь.
-- Example: `Small talk can act as social glue in a new team.`
+1. We made small talk while waiting for the interview. — Пока ждали собеседования, мы немного поболтали.
+2. I'm not very good at small talk with strangers. — Мне не очень легко вести непринуждённые разговоры с незнакомцами.
 
-## `follow-up question`
+## get distracted
 
-- Значение: дополнительный вопрос, основанный на предыдущем ответе.
-- Collocation: `ask a thoughtful follow-up question`.
-- Example: `Good listeners ask follow-up questions instead of changing the subject.`
+**Тип:** глагольное сочетание с get и причастием/прилагательным.
 
-## `get distracted`
+**Перевод:** отвлекаться.
 
-- Значение: отвлечься, потерять концентрацию.
-- Collocations: `get distracted easily`, `get distracted by noise`.
-- Не путать с `get disturbed`: быть потревоженным или эмоционально задетым.
+Get distracted by noise / from a task: внимание уходит от дела. В записи это альтернатива disturbed, а не подтверждённая ошибка ученика.
+
+**Регистр / оттенок.** Нейтрально: речь о концентрации, а не о сильном эмоциональном потрясении.
+
+### Примеры употребления
+
+1. I get distracted by notifications. — Меня отвлекают уведомления.
+2. She got distracted and missed her stop. — Она отвлеклась и проехала свою остановку.
+
+## get disturbed
+
+**Тип:** глагольное сочетание с get и причастием/прилагательным.
+
+**Перевод:** быть потревоженным; встревожиться.
+
+Disturb someone — прервать покой или вызвать тревогу. Для русского «я легко отвлекаюсь» точнее get distracted; disturbed by the news описывает другую реакцию.
+
+**Регистр / оттенок.** Нейтрально, но без контекста disturbed может звучать эмоционально сильнее, чем distracted.
+
+### Примеры употребления
+
+1. I don't want to be disturbed during the call. — Я не хочу, чтобы меня беспокоили во время звонка.
+2. He was disturbed by what he saw. — Увиденное его встревожило.
+
+## staff
+
+**Тип:** существительное.
+
+**Перевод:** сотрудники, персонал.
+
+Собирательное существительное: office staff, a member of staff. Не один сотрудник: для него a staff member. Американское /stæf/, в распространённом британском произношении /stɑːf/.
+
+**Регистр / оттенок.** Нейтрально; собеседник поймёт группу работников. Сравни stuff /stʌf/: меняются гласная и значение.
+
+### Примеры употребления
+
+1. The staff were very helpful. — Сотрудники очень помогли.
+2. Ask a member of staff for directions. — Спросите дорогу у сотрудника.
+
+## stuff
+
+**Тип:** существительное.
+
+**Перевод:** вещи; всякое; материал.
+
+Неисчисляемое слово с широким смыслом: my stuff, work stuff. /stʌf/: краткий гласный, отличный от /æ/ в американском staff.
+
+**Регистр / оттенок.** Разговорно и намеренно неточно: вид вещей понятен из ситуации.
+
+### Примеры употребления
+
+1. I've left my stuff at the office. — Я оставил вещи в офисе.
+2. We talked about work stuff over lunch. — За обедом мы поговорили о рабочих делах.
+
+## hang up
+
+**Тип:** фразовый глагол.
+
+**Перевод:** повесить трубку, завершить звонок.
+
+Hang up; hang up on someone — оборвать разговор с кем-то. Формы hang–hung–hung в этом значении.
+
+**Регистр / оттенок.** Нейтрально без дополнения; hang up on me часто подразумевает невежливость.
+
+### Примеры употребления
+
+1. The line went quiet, so I hung up. — На линии стало тихо, и я положил трубку.
+2. She hung up on me before I could explain. — Она бросила трубку, не дав мне объяснить.
+
+## lighthearted
+
+**Тип:** прилагательное.
+
+**Перевод:** лёгкий, беззаботный.
+
+Lighthearted conversation / joke — без тяжёлой серьёзности. В small talk это тон беседы, а не оценка интеллекта.
+
+**Регистр / оттенок.** Обычно положительно; шутливый тон может оказаться неуместным в серьёзной ситуации.
+
+### Примеры употребления
+
+1. We had a lighthearted chat about our pets. — Мы легко поболтали о питомцах.
+2. I meant it as a lighthearted comment. — Я сказал это в шутку.
+
+## mindset
+
+**Тип:** существительное.
+
+**Перевод:** образ мыслей, установка.
+
+A positive / curious mindset; change your mindset. Это привычный способ смотреть на ситуацию, не отдельная мысль.
+
+**Регистр / оттенок.** Нейтрально, часто в обсуждении обучения и работы; предполагает установку, влияющую на поведение.
+
+### Примеры употребления
+
+1. A curious mindset helps me ask better questions. — Любознательный настрой помогает мне задавать более удачные вопросы.
+2. The new role required a different mindset. — Новая роль потребовала другого подхода к мышлению.
+
+## curious
+
+**Тип:** прилагательное.
+
+**Перевод:** любознательный; интересующийся.
+
+Be curious about something; curious to know. В уроке человек хочет узнать больше о собеседнике.
+
+**Регистр / оттенок.** Нейтрально и обычно положительно; настойчивые личные вопросы могут восприниматься как назойливость независимо от слова.
+
+### Примеры употребления
+
+1. I'm curious about how you got into design. — Мне интересно, как ты пришёл в дизайн.
+2. The children were curious to see what was inside. — Детям не терпелось узнать, что внутри.
+
+## social glue
+
+**Тип:** идиома.
+
+**Перевод:** то, что объединяет людей.
+
+Small talk is social glue: образ клея обозначает связь внутри группы. Glue здесь неисчисляемое.
+
+**Регистр / оттенок.** Образное, объяснительное выражение; речь о сплочении, не о буквальном клее.
+
+### Примеры употребления
+
+1. Shared jokes can be social glue in a team. — Общие шутки могут сплачивать команду.
+2. For our family, Sunday lunch is the social glue. — Нашу семью объединяют воскресные обеды.
+
+## focus on
+
+**Тип:** глагол с предлогом (предложное управление).
+
+**Перевод:** сосредоточиться на.
+
+Focus on someone / something / doing something. После on — объект внимания; не focus to.
+
+**Регистр / оттенок.** Нейтрально; в small talk предлагается уделить внимание собеседнику.
+
+### Примеры употребления
+
+1. Try to focus on what she is saying. — Постарайся сосредоточиться на том, что она говорит.
+2. This week we're focusing on fixing the login problem. — На этой неделе мы сосредоточены на исправлении проблемы со входом.
+
+## follow-up question
+
+**Тип:** именное словосочетание.
+
+**Перевод:** уточняющий вопрос по ответу.
+
+Ask a follow-up question: следующий вопрос развивает услышанное, а не просто открывает другую тему.
+
+**Регистр / оттенок.** Нейтрально; показывает внимание, хотя чувствительные подробности требуют такта.
+
+### Примеры употребления
+
+1. She asked a follow-up question about my trip. — Она задала уточняющий вопрос о моей поездке.
+2. My follow-up question was about the deadline. — Мой уточняющий вопрос касался срока.
+

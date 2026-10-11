@@ -1,25 +1,48 @@
-# Grammar
+# Грамматика
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## Word families: выбирать форму по функции
+## Состояние человека и источник ощущения
 
-- Сначала определить позицию в предложении: adjective после `be`, noun после article/determiner, verb после subject,
-  adverb для модификации действия или качества.
-- Example: `I need to be creative.` / `The job requires creativity.` / `She solved it creatively.`
-- Нельзя механически считать все клетки таблицы одинаково употребительными: `creatively` естественно, а
-  `challengingly` и `rewardingly` редко нужны в обычной речи.
+В таблицах сопоставлены **exhausting / exhausted**, **inspiring / inspired**, **stressful / stressed**. Для пар с -ing/-ed удобно различать источник ощущения и испытываемое состояние. Это локальная модель, не правило для любого английского прилагательного.
 
-## `-ing` и `-ed` adjectives
+### Сравнение
 
-- `-ing` описывает источник ощущения: `The job is exhausting.`
-- `-ed` описывает состояние человека: `I’m exhausted.`
-- Контраст: `The project is inspiring.` / `I feel inspired by the project.`
+- The work is exhausting. — Работа изнуряет.
+- I'm exhausted after work. — После работы я изнурён.
 
-## Practice: word formation
+**I'm boring** грамматически верно, но значит «я скучный человек», а **I'm bored** — «мне скучно». **A stressed manager** испытывает стресс, **a stressful meeting** вызывает его. Не всякая пара образуется через -ing: stressful, а не обязательно stressing.
 
-1. `I need to be ___ in my job. (CREATE)` → `creative`.
-2. `Travelling always ___ me. (INSPIRATION)` → `inspires`.
-3. `Be ___ about the timeline. (REALITY)` → `realistic`.
-4. `Make sure your examples are ___ to the topic. (RELATE)` → `relevant`.
-5. `I felt a sense of ___ after finishing. (SATISFY)` → `satisfaction`.
+## Часть речи определяется местом в предложении
+
+В исходнике две таблицы word families и задания на формы. Сами выделения и заполненные клетки не устанавливают, кто дал ответ. После be или feel часто нужно прилагательное: **The job is creative**. После a sense of — существительное: **a sense of satisfaction**. Наречие описывает способ действия: **She explained it clearly**.
+
+### Сравнение
+
+- She is creative. — Прилагательное характеризует человека.
+- She works creatively. — Наречие характеризует способ работы.
+- Her creativity helps the team. — Существительное является подлежащим.
+
+Не следует автоматически заполнять каждую клетку семьи «подходящим суффиксом». Реальное употребление важнее симметрии таблицы. Challengingly и demandingly существуют, но для обычного описания работы полезнее challenging work / a demanding role. Их редкость — не грамматическая невозможность.
+
+## Родственные формы могут расходиться по значению
+
+В таблице **practical / practise / practice / practically** нельзя считать точными переводными заменами. Practise — отрабатывать навык, а practical — полезный на практике; practically может значить «почти». **Realise** часто «осознать», а не «стать реалистичным». **Flex** буквально «сгибать/напрягать» не выражает всякую организационную гибкость. Значения отдельных семей разобраны в [словаре](vocabulary.md).
+
+### Сравнение
+
+- We need practical advice. — Нам нужен применимый на деле совет.
+- We've practically finished. — Мы почти закончили.
+
+Британское написание: существительное practice, глагол practise. В американском написании practice используется для обоих. Это вариант орфографии, а не разные грамматические конструкции.
+
+## Would и цель действия в обсуждении работы
+
+**My job would be a little more fun if…** задаёт воображаемое изменение: **My job would be more fun if we worked together more often.** Прошедшая форма worked здесь обозначает гипотезу, а не прошедший эпизод.
+
+**Managers should … so as to make work more fun**: после so as to — базовая форма make, а make + object + adjective описывает результат.
+
+### Сравнение
+
+- We changed the format to make meetings shorter. — Изменение ради цели.
+- The new format made meetings shorter. — Сообщение о полученном результате.

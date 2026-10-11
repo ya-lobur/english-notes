@@ -1,23 +1,36 @@
-# Grammar
+# Грамматика
 
-[← Lesson overview](lesson.md)
+[← К обзору урока](lesson.md)
 
-## Articles in compressed lists
+## Прошедшее повествование и более ранние события
 
-- В заметках и заголовках артикли часто опускаются, но в полном предложении нужны: `a new flat, a new job, a new
-  city`.
-- `Work` обычно неисчисляемое, когда означает деятельность: `I had a lot of work.`
-- `Job` исчисляемое, когда означает должность: `I started a new job.`
+В **everyone assumed he'd already figured out the local systems** сокращение he'd = he had, поскольку дальше past participle figured. Past Perfect показывает: по чужому предположению он разобрался ещё до той рабочей ситуации.
 
-## Past Perfect in a retrospective narrative
+### Сравнение
 
-- Past Perfect показывает событие, завершившееся к прошлой точке: `he’d figured out the system`, `he’d risen to the
-  challenge`.
-- Не нужно ставить каждое действие в Past Perfect: после установления последовательности Past Simple продолжает рассказ.
-- Сравнение: `When he arrived, he felt lost. After a few months, he had learned enough to get by.`
+- Everyone assumed he had figured it out. — Предполагали, что он уже разобрался.
+- Everyone assumed he would figure it out. — Предполагали, что он разберётся позже.
 
-## `start to do` / `start doing`
+В **he realised he'd risen to the challenge** risen — третья форма rise; **rose** употребляется без had в Past Simple. История является учебным текстом: её утверждения не используются как установленные факты о жизни ученика.
 
-- Обе модели обычно возможны: `started to understand` / `started understanding`.
-- Но сочетание должно оставаться семантически естественным: `start to figure out which places...` лучше, чем `start
-  getting the hang of which places...`.
+## Get the hang of which…: когда понимают различия
+
+Фраза **getting the hang of which co-working spots actually had decent wifi and which crowd hung where** понятна, но get the hang of особенно естественно о навыке. Если главное — узнать, в каких местах какой интернет и кто собирается, яснее **he'd started to figure out which co-working spots had decent Wi-Fi and which groups hung out where**. Это лексико-стилистическая правка, а не ошибка времени.
+
+### Сравнение
+
+- He got the hang of booking a desk online. — Освоил действие.
+- He figured out which café had reliable Wi-Fi. — Выяснил конкретную информацию.
+
+Hung where в исходнике очень разговорно; hung out where прозрачнее для значения «где кто проводил время».
+
+## Figure out / work out / sort out и полнота дополнения
+
+В задании к ситуации **The office was chaotic, but by Friday we'd solved everything** предложено **figure out / work out**. Если имеется в виду «разобрались, как решить», они подходят: **We'd worked out what to do**. Если «практически навели порядок», точнее **We'd sorted everything out**. Нельзя считать любую из этих форм универсально одинаковой по смыслу.
+
+### Сравнение
+
+- We worked out what was wrong. — Поняли, в чём проблема.
+- We sorted the problem out. — Урегулировали проблему.
+
+Это уточнение смысла задания, а не оценка ответа ученика.
