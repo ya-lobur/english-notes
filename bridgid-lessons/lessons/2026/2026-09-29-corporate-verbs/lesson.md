@@ -46,6 +46,14 @@ next_review: 2026-10-04
 2. Расскажи, какой процесс стоит `streamline`, какой риск — `mitigate`, а какие команды — `align`.
 3. Ответь на три исходных homework questions письменно по 4–6 предложений.
 
+## Ответы на homework questions
+
+1. I **prioritise** work by weighing its business impact, urgency, and cost to employees. If needs conflict, I make the trade-offs clear and look for a solution that protects essential employee needs while delivering value to stakeholders.
+
+2. To **align** training with business goals, connect what people learn to specific outcomes, such as fewer errors or faster delivery. The programme is succeeding if those outcomes improve and employees can use the skills in their work.
+
+3. We can’t eliminate every risk: some failure is inevitable when a project involves uncertainty. We can **mitigate** the risk by testing assumptions early, reviewing progress, and preparing a backup plan.
+
 <details>
 <summary>Ответы и подсказки</summary>
 
@@ -112,4 +120,3 @@ What does it really mean to **align** a training programme with business goals �
 succeeded?
 
 Is it always possible to **mitigate** the risk of a failed project, or is some failure inevitable?
-
